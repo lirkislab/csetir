@@ -6,7 +6,7 @@ newmtl Blacktop_Old_02
 Ka 0.000000 0.000000 0.000000
 Kd 0.560784 0.568627 0.568627
 Ks 0.330000 0.330000 0.330000
-map_Kd skeleton/Blacktop_Old_02.jpg
+map_Kd skelet/Blacktop_Old_02.jpg
 
 newmtl Concrete_Scored_Jointless
 Ka 0.000000 0.000000 0.000000
